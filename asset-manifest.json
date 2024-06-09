@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jokino9212.github.io/registrationForm/static/css/main.f855e6bc.css",
+    "main.js": "/jokino9212.github.io/registrationForm/static/js/main.c769337b.js",
+    "static/js/453.61a6c978.chunk.js": "/jokino9212.github.io/registrationForm/static/js/453.61a6c978.chunk.js",
+    "static/media/logo.svg": "/jokino9212.github.io/registrationForm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jokino9212.github.io/registrationForm/index.html",
+    "main.f855e6bc.css.map": "/jokino9212.github.io/registrationForm/static/css/main.f855e6bc.css.map",
+    "main.c769337b.js.map": "/jokino9212.github.io/registrationForm/static/js/main.c769337b.js.map",
+    "453.61a6c978.chunk.js.map": "/jokino9212.github.io/registrationForm/static/js/453.61a6c978.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c769337b.js"
+  ]
+}
